@@ -7,8 +7,6 @@ draft: true
 
 Hi there ! We are five students from the University of Lausanne, studying for a Master's degree in Management.
 
-![*kakashi*](/content/kakashi.jpg)
-
 We have created this website to show you an application we have created about anime. 
 
 Here are our names, and our emails:
