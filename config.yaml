@@ -1,4 +1,4 @@
-baseurl: https://ptds2021.github.com/project--G5
+baseurl: 'https://blogdown-g5.netlify.app/'
 title: Anime recommendation
 languageCode: en-us
 theme: hugo-lithium
