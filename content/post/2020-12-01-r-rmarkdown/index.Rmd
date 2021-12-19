@@ -13,10 +13,6 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 Welcome to the website about anime recommendation !
 
-```{r}
-![](Github/project--G5/website--project--G5/content/post/2020-12-01-r-rmarkdown/index_files/figure-html/kakashi.gif)
-```
-
 The Shiny App we have created for this project concerns an anime recommendation based on these parameters:
 - age of the person
 - preferred anime genre (action, fantasy, etc.)
