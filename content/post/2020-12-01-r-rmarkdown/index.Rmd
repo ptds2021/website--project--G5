@@ -3,6 +3,7 @@ title: "How to use our package?"
 author: "M. Bellier, M. Finini, M. Likoska, V. Rodrigues Telo Ramos, X. Renger"
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
+date: "2021-12-19"
 ---
 
 ```{r setup, include=FALSE}

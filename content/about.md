@@ -2,6 +2,7 @@
 date: "2016-05-05T21:48:51-07:00"
 title: About us
 description: learn more about us!
+draft: true
 ---
 
 Hi there ! We are five students from the University of Lausanne, studying for a Master's degree in Management.
